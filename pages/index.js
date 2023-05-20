@@ -16,7 +16,7 @@ export default function Home() {
       <main>
         <Header title="Piotr Kowalski" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+        
         </p>
         <Link href="/expositions">Expositions</Link>
         <h2>Contact</h2>
