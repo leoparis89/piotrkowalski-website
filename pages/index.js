@@ -11,6 +11,7 @@ export default function Home() {
       <Head>
         <title>Piotr Kowalski</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="ahrefs-site-verification" content="49900ab91bde14b84bc536085d15abd5d2cfee6ccb44a6dfd9362cb9a4b0d824"></meta>
       </Head>
 
       <main>
